@@ -7853,7 +7853,7 @@ footer h5 {
 
 
 .icon {
-      background-image: url('/img/giphy.gif');
+      background-image: url('./img/giphy.gif');
       background-size: contain;
       background-repeat: no-repeat ;
       height: 100px;
